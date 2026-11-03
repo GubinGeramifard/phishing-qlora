@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Training artifacts
+outputs/
+phishing-qlora-adapter/
+*.zip
+wandb/
+
+# Env
+.env
+.venv/

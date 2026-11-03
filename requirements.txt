@@ -1,0 +1,7 @@
+transformers>=4.46,<4.48
+peft>=0.13,<0.15
+datasets>=3.0,<4.0
+accelerate>=1.0
+bitsandbytes>=0.44
+scikit-learn
+matplotlib
